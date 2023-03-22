@@ -11,3 +11,6 @@ git push -u origin main || git push origin master
 error
 git remote -v 
 git fetch origin main
+
+
+!!!!!!!!!! git push -f -u origin
